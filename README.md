@@ -1,7 +1,10 @@
 # Description
-Thank you the follow men
+Thank you the follow
+
 https://github.com/VR2VYE/OpenGD77CPS CPS
+
 https://github.com/open-ham/OpenGD77CPS CPS
+
 https://github.com/open-ham/OpenGD77 firmware
 
 Language C#, Visual Studio 2017 , only for study research
